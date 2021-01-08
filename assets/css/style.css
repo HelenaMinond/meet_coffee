@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    }
+.color-fondo{
+    background: #000f08;
+    color: #ffffff;
+    }
+.color-fondo a{
+    color: #ffffff;
+    text-decoration: none;
+    }
+/*------------------------------------*/
+nav {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    }
+nav ul {
+    list-style-type: none;
+    }
+nav ul li {
+    display: inline-block;
+    margin: 8px;
+    vertical-align: middle;
+    }
+.icono-1 {
+    top: 15px;
+    left: 114px;
+    width: 31px;
+    height: 31px;
+    }
+.icono-1 svg{
+    fill: #ffffff;
+    }
+.contenido-simposio img{
+    margin-bottom: 30px;
+}
+/*----------------------------------------------------------*/
+h1 , h2{
+    text-align: justify;
+    }
+h1{
+    font-weight: 700;
+    font-size: 2.15em;
+    }
+h2{
+    font-weight: 700;
+    font-size: 1.75em;
+    }
+.contenido-simposio{
+    display: inline-block;
+    text-align: justify;
+    margin-left: 258px;
+    margin-right: 257px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    }
+.contenido-simposio img{
+    border-radius: 5px;
+    width: 100%;
+    }
+/*----------------------------------------------------------*/
+footer{
+    padding-bottom: 5px;
+    padding-top: 50px;
+}
+.icono-2{
+    padding: 15px;
+}
